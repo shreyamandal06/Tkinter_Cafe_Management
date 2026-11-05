@@ -23,15 +23,15 @@ Login / Signup → Home → Menu → Order → Receipt
 
 | Login | Signup | Home |
 |---|---|---|
-| ![Login](screenshots/login.png) | ![Signup](screenshots/signup.png) | ![Home](screenshots/home.png) |
+| ![Login](login.png) | ![Signup](signup.png) | ![Home](home.png) |
 
 | Menu | Order | Receipt |
 |---|---|---|
-| ![Menu](screenshots/menu.png) | ![Order](screenshots/order.png) | ![Receipt](screenshots/receipt.png) |
+| ![Menu](menu.png) | ![Order](order.png) | ![Receipt](receipt.png) |
 
 | Success pop-up | Place Order pop-up |
 |---|---|
-| ![Success](screenshots/popup-success.png) | ![Place order](screenshots/popup-place-order.png) |
+| ![Success](popup-success.png) | ![Place order](popup-place-order.png) |
 
 ## How to run
 
